@@ -13,13 +13,13 @@
   },
   {
     "full_name": "charmbracelet/lipgloss",
-    "stargazers_count": 4337,
+    "stargazers_count": 4344,
     "open_issues_count": 17,
     "forks_count": 102
   },
   {
     "full_name": "krateoplatformops/krateo",
-    "stargazers_count": 85,
+    "stargazers_count": 88,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -37,33 +37,33 @@
   },
   {
     "full_name": "ronakganatra/awesome-developer-marketing",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "rancher-sandbox/rancher-desktop",
-    "stargazers_count": 3599,
+    "stargazers_count": 3607,
     "open_issues_count": 514,
     "forks_count": 157
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 26887,
-    "open_issues_count": 411,
-    "forks_count": 1126
+    "stargazers_count": 26944,
+    "open_issues_count": 408,
+    "forks_count": 1125
   },
   {
     "full_name": "backstage/community",
     "stargazers_count": 132,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 16926,
-    "open_issues_count": 535,
-    "forks_count": 2624
+    "stargazers_count": 16976,
+    "open_issues_count": 533,
+    "forks_count": 2629
   },
   {
     "full_name": "arjenderuiter/techdebtgame",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 32450,
+    "stargazers_count": 32470,
     "open_issues_count": 34,
-    "forks_count": 7740
+    "forks_count": 7753
   },
   {
     "full_name": "arj03/ssb-browser-demo",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 6554,
-    "open_issues_count": 14,
-    "forks_count": 1136
+    "stargazers_count": 6592,
+    "open_issues_count": 16,
+    "forks_count": 1141
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh2",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "microsoft/WhatTheHack",
-    "stargazers_count": 1141,
+    "stargazers_count": 1144,
     "open_issues_count": 26,
-    "forks_count": 549
+    "forks_count": 554
   },
   {
     "full_name": "crm-cat/UGinabox",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "tech-conferences/confs.tech",
-    "stargazers_count": 1685,
+    "stargazers_count": 1687,
     "open_issues_count": 6,
     "forks_count": 102
   },
   {
     "full_name": "eiz/SynchronousAudioRouter",
-    "stargazers_count": 750,
+    "stargazers_count": 752,
     "open_issues_count": 79,
-    "forks_count": 118
+    "forks_count": 119
   },
   {
     "full_name": "tzuehlke/jekyll-uno-timeline",
     "stargazers_count": 85,
     "open_issues_count": 1,
-    "forks_count": 113
+    "forks_count": 110
   }
 ]
