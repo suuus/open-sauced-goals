@@ -2,7 +2,7 @@
   {
     "full_name": "tavicu/homebridge-samsung-tizen",
     "stargazers_count": 505,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 73
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "full_name": "charmbracelet/lipgloss",
-    "stargazers_count": 4344,
-    "open_issues_count": 17,
+    "stargazers_count": 4349,
+    "open_issues_count": 18,
     "forks_count": 102
   },
   {
@@ -43,31 +43,31 @@
   },
   {
     "full_name": "rancher-sandbox/rancher-desktop",
-    "stargazers_count": 3613,
-    "open_issues_count": 517,
+    "stargazers_count": 3625,
+    "open_issues_count": 523,
     "forks_count": 158
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 26961,
-    "open_issues_count": 406,
-    "forks_count": 1123
+    "stargazers_count": 26992,
+    "open_issues_count": 411,
+    "forks_count": 1125
   },
   {
     "full_name": "backstage/community",
-    "stargazers_count": 133,
-    "open_issues_count": 4,
+    "stargazers_count": 136,
+    "open_issues_count": 3,
     "forks_count": 11
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 17006,
-    "open_issues_count": 528,
-    "forks_count": 2635
+    "stargazers_count": 17048,
+    "open_issues_count": 529,
+    "forks_count": 2648
   },
   {
     "full_name": "arjenderuiter/techdebtgame",
-    "stargazers_count": 19,
+    "stargazers_count": 21,
     "open_issues_count": 3,
     "forks_count": 1
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 32478,
+    "stargazers_count": 32502,
     "open_issues_count": 34,
-    "forks_count": 7760
+    "forks_count": 7768
   },
   {
     "full_name": "arj03/ssb-browser-demo",
@@ -96,20 +96,20 @@
     "forks_count": 11
   },
   {
-    "full_name": "ffplayout/ffplayout-engine",
+    "full_name": "ffplayout/ffplayout",
     "stargazers_count": 221,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 55
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 6600,
-    "open_issues_count": 15,
-    "forks_count": 1143
+    "stargazers_count": 6630,
+    "open_issues_count": 13,
+    "forks_count": 1151
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh2",
-    "stargazers_count": 5096,
+    "stargazers_count": 5094,
     "open_issues_count": 0,
     "forks_count": 295
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "microsoft/WhatTheHack",
-    "stargazers_count": 1144,
-    "open_issues_count": 24,
-    "forks_count": 555
+    "stargazers_count": 1146,
+    "open_issues_count": 35,
+    "forks_count": 556
   },
   {
     "full_name": "crm-cat/UGinabox",
@@ -152,7 +152,7 @@
   {
     "full_name": "evanpurkhiser/prolink-tools",
     "stargazers_count": 142,
-    "open_issues_count": 26,
+    "open_issues_count": 27,
     "forks_count": 14
   },
   {
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "tech-conferences/confs.tech",
-    "stargazers_count": 1687,
+    "stargazers_count": 1688,
     "open_issues_count": 6,
     "forks_count": 102
   },
   {
     "full_name": "eiz/SynchronousAudioRouter",
-    "stargazers_count": 752,
+    "stargazers_count": 753,
     "open_issues_count": 79,
     "forks_count": 119
   },
