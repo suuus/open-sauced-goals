@@ -1,8 +1,8 @@
 [
   {
     "full_name": "tavicu/homebridge-samsung-tizen",
-    "stargazers_count": 510,
-    "open_issues_count": 5,
+    "stargazers_count": 511,
+    "open_issues_count": 6,
     "forks_count": 74
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "charmbracelet/lipgloss",
-    "stargazers_count": 4375,
+    "stargazers_count": 4376,
     "open_issues_count": 20,
     "forks_count": 101
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "nwtgck/actions-comment-run",
-    "stargazers_count": 424,
+    "stargazers_count": 426,
     "open_issues_count": 35,
     "forks_count": 12
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 489,
-    "open_issues_count": 4,
-    "forks_count": 75
+    "stargazers_count": 490,
+    "open_issues_count": 5,
+    "forks_count": 76
   },
   {
     "full_name": "ronakganatra/awesome-developer-marketing",
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "rancher-sandbox/rancher-desktop",
-    "stargazers_count": 3675,
-    "open_issues_count": 533,
-    "forks_count": 158
+    "stargazers_count": 3682,
+    "open_issues_count": 540,
+    "forks_count": 159
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 27305,
-    "open_issues_count": 425,
+    "stargazers_count": 27319,
+    "open_issues_count": 422,
     "forks_count": 1145
   },
   {
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 17249,
-    "open_issues_count": 522,
-    "forks_count": 2728
+    "stargazers_count": 17253,
+    "open_issues_count": 521,
+    "forks_count": 2732
   },
   {
     "full_name": "arjenderuiter/techdebtgame",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 32686,
-    "open_issues_count": 45,
-    "forks_count": 7819
+    "stargazers_count": 32700,
+    "open_issues_count": 43,
+    "forks_count": 7818
   },
   {
     "full_name": "arj03/ssb-browser-demo",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 6847,
-    "open_issues_count": 14,
-    "forks_count": 1202
+    "stargazers_count": 6859,
+    "open_issues_count": 13,
+    "forks_count": 1207
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh2",
-    "stargazers_count": 5094,
+    "stargazers_count": 5093,
     "open_issues_count": 0,
     "forks_count": 296
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "microsoft/WhatTheHack",
-    "stargazers_count": 1157,
+    "stargazers_count": 1158,
     "open_issues_count": 22,
-    "forks_count": 566
+    "forks_count": 567
   },
   {
     "full_name": "crm-cat/UGinabox",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "tzuehlke/jekyll-uno-timeline",
-    "stargazers_count": 86,
+    "stargazers_count": 87,
     "open_issues_count": 1,
     "forks_count": 111
   }
