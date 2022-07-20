@@ -2,7 +2,7 @@
   {
     "full_name": "tavicu/homebridge-samsung-tizen",
     "stargazers_count": 515,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 75
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "full_name": "charmbracelet/lipgloss",
-    "stargazers_count": 4395,
-    "open_issues_count": 20,
+    "stargazers_count": 4396,
+    "open_issues_count": 21,
     "forks_count": 102
   },
   {
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "rancher-sandbox/rancher-desktop",
-    "stargazers_count": 3702,
+    "stargazers_count": 3705,
     "open_issues_count": 547,
     "forks_count": 159
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 27399,
-    "open_issues_count": 426,
-    "forks_count": 1150
+    "stargazers_count": 27415,
+    "open_issues_count": 424,
+    "forks_count": 1149
   },
   {
     "full_name": "backstage/community",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 17309,
-    "open_issues_count": 514,
-    "forks_count": 2753
+    "stargazers_count": 17317,
+    "open_issues_count": 512,
+    "forks_count": 2758
   },
   {
     "full_name": "arjenderuiter/techdebtgame",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 32773,
-    "open_issues_count": 46,
-    "forks_count": 7838
+    "stargazers_count": 32785,
+    "open_issues_count": 49,
+    "forks_count": 7844
   },
   {
     "full_name": "arj03/ssb-browser-demo",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 6995,
+    "stargazers_count": 7018,
     "open_issues_count": 20,
-    "forks_count": 1240
+    "forks_count": 1247
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh2",
-    "stargazers_count": 5099,
+    "stargazers_count": 5098,
     "open_issues_count": 0,
     "forks_count": 295
   },
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "microsoft/WhatTheHack",
-    "stargazers_count": 1161,
-    "open_issues_count": 24,
+    "stargazers_count": 1162,
+    "open_issues_count": 23,
     "forks_count": 569
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "evanpurkhiser/prolink-tools",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 27,
     "forks_count": 14
   },
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "tech-conferences/confs.tech",
-    "stargazers_count": 1693,
+    "stargazers_count": 1694,
     "open_issues_count": 6,
     "forks_count": 103
   },
   {
     "full_name": "eiz/SynchronousAudioRouter",
-    "stargazers_count": 770,
+    "stargazers_count": 771,
     "open_issues_count": 79,
     "forks_count": 120
   },
